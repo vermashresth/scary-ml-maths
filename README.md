@@ -8,6 +8,8 @@ A repository with sources for understanding mathematical concepts and algos that
 - Estimation Theory
 - Cramer-Rao Bounds
 - Implicit Function Theorem
+  - https://www.youtube.com/watch?v=bk9IKHS5KbY
+  - https://www.youtube.com/watch?v=xtgTckGMuWE
 - Karush–Kuhn–Tucker Conditions
 - Lipschitzness
 - Monte Carlo Markov Chain
