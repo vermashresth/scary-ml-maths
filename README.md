@@ -16,6 +16,7 @@ A repository with sources for understanding mathematical concepts and algos that
   - https://www.math.cmu.edu/~cnewstea/teaching/old/teaching/21-256/implicit-partial-diff.pdf
 - Sinkhorn Algorithm
   - https://zipjiang.github.io/2020/11/23/sinkhorn's-theorem-,-sinkhorn-algorithm-and-applications.html
+  - https://www.youtube.com/watch?v=wxYoEBxNyMY
 - Optimal Transport
   - http://alexhwilliams.info/itsneuronalblog/2020/10/09/optimal-transport/
   - https://arxiv.org/pdf/1803.00567.pdf
